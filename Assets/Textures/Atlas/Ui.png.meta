@@ -1,0 +1,1371 @@
+fileFormatVersion: 2
+guid: ce36c5bd5c59346b68fd4c5adc2aaedf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5294345928735420307
+    second: AdFiller
+  - first:
+      213: -3525896022105109100
+    second: AdFillerBg
+  - first:
+      213: -3992448543928137752
+    second: AdFillerBg2
+  - first:
+      213: -3369968491757792572
+    second: AdIcon
+  - first:
+      213: -3662026231938049635
+    second: Arrow1
+  - first:
+      213: 3293972591526105725
+    second: Arrow2
+  - first:
+      213: -4227009626000726119
+    second: BestPrizeBg
+  - first:
+      213: -4450187690458833534
+    second: Box
+  - first:
+      213: -7938564376338241569
+    second: BoxBg
+  - first:
+      213: 7671531259818662440
+    second: Button1
+  - first:
+      213: 7744542127063266549
+    second: Button2
+  - first:
+      213: 5393962384758193503
+    second: Button3
+  - first:
+      213: -4373717709332938208
+    second: Button4
+  - first:
+      213: 3391490807722632342
+    second: Button5
+  - first:
+      213: -6101424809201626832
+    second: Button6
+  - first:
+      213: 2446226675579067783
+    second: ButtonLeft
+  - first:
+      213: 6183191644882369820
+    second: ButtonRight
+  - first:
+      213: 3524095653683485038
+    second: CircleBg
+  - first:
+      213: 8765955682749052824
+    second: Coin
+  - first:
+      213: 8665328858924411665
+    second: ComingSoonIcon
+  - first:
+      213: 2827776876321002382
+    second: CrossButton
+  - first:
+      213: 5490574064679671606
+    second: Dimmer
+  - first:
+      213: 5431880791259236156
+    second: FxIcon
+  - first:
+      213: -3352969536217327418
+    second: InUSeBg
+  - first:
+      213: 4114349397104611243
+    second: KeyActive
+  - first:
+      213: 7814027282820013820
+    second: KeyPassive
+  - first:
+      213: -6927099905226203572
+    second: NoAdsIcon
+  - first:
+      213: 702535013929809199
+    second: NotificationIcon
+  - first:
+      213: 7698241896822339605
+    second: PopUpBlue
+  - first:
+      213: -5887553693802507052
+    second: PopUpGray
+  - first:
+      213: -2859436204675958057
+    second: PopUpPurple
+  - first:
+      213: -7225951091289877994
+    second: RateIcon
+  - first:
+      213: 6197563099442518270
+    second: RoundedBg1
+  - first:
+      213: 775762764780200956
+    second: RoundedBg2
+  - first:
+      213: 3953848714772310056
+    second: RoundedBg3
+  - first:
+      213: 7822690008470455294
+    second: SelectBg
+  - first:
+      213: -4486227512957825637
+    second: SelectedEffect
+  - first:
+      213: 8612796958653499832
+    second: SettingsIcon
+  - first:
+      213: 2382593276862300284
+    second: ShoesBg
+  - first:
+      213: 8155934230755824082
+    second: ShoesIcon
+  - first:
+      213: 7858925213694192944
+    second: SkinBg
+  - first:
+      213: 1980629960223068734
+    second: SkinsIcon
+  - first:
+      213: 6535176705607793162
+    second: SkipIcon
+  - first:
+      213: -131390822890367112
+    second: SoundIcon
+  - first:
+      213: 8514496632977958777
+    second: Sparkle
+  - first:
+      213: 2447658141224875137
+    second: SquareBg
+  - first:
+      213: -482172551309927846
+    second: Sunlight
+  - first:
+      213: 3811720446646771476
+    second: TutorialHand
+  - first:
+      213: -7675851948918816093
+    second: UndoIcon
+  - first:
+      213: 8889128215869633055
+    second: VibrationIcon
+  - first:
+      213: -1230888198623443318
+    second: WithAdBg
+  - first:
+      213: 766009405619626727
+    second: YellowBg
+  - first:
+      213: -7456702677556781753
+    second: ClaimButton
+  - first:
+      213: -1984068400391906700
+    second: ConfirmIcon
+  - first:
+      213: -9027386854138031477
+    second: CreasaurLogo
+  - first:
+      213: 5338722516277446279
+    second: CurrencyBg
+  - first:
+      213: 6445354400374264901
+    second: CurrencyCoin
+  - first:
+      213: 4705221853659840003
+    second: CurrencyMoney
+  - first:
+      213: -7701267772352072335
+    second: FacebookIcon
+  - first:
+      213: 4304467218381504076
+    second: FalseIcon
+  - first:
+      213: -3362699061888105380
+    second: GameLogo
+  - first:
+      213: -8857936378422341507
+    second: GenericButton
+  - first:
+      213: -6881239029467188686
+    second: InstagramIcon
+  - first:
+      213: 3222876287585762764
+    second: LeftArrow
+  - first:
+      213: -3385805023499867733
+    second: Line
+  - first:
+      213: -4955183607911554960
+    second: LoadingBarBg
+  - first:
+      213: -9076549811583464456
+    second: LoadingBarFiller
+  - first:
+      213: -3006583946265510884
+    second: LockIcon
+  - first:
+      213: 610020240992084035
+    second: NoAdsButton
+  - first:
+      213: 6024543358676136907
+    second: NoAdsFlatIcon
+  - first:
+      213: 1701826443310433325
+    second: PopUpBg
+  - first:
+      213: 2345528938617874472
+    second: PopUpContentBg
+  - first:
+      213: 3146536522707953580
+    second: PopUpCrossButton
+  - first:
+      213: -7663738187809033584
+    second: PopUpTitle
+  - first:
+      213: -5663719264228562555
+    second: ReferenceImageBg
+  - first:
+      213: 632499599562080478
+    second: RightArrow
+  - first:
+      213: 8717856983987403947
+    second: SettingsToggleBg
+  - first:
+      213: -4143672872419193656
+    second: SettingsToggleButton
+  - first:
+      213: 5956316203602095337
+    second: StarFlatIcon
+  - first:
+      213: -5761474140649128046
+    second: TapToStartBg
+  - first:
+      213: 3434943571542310236
+    second: TwitterICon
+  - first:
+      213: 2299006848593860999
+    second: WatchAdIcon
+  - first:
+      213: -5976135448251071331
+    second: WebIcon
+  - first:
+      213: 9025164136080650209
+    second: YoutubeIcon
+  - first:
+      213: -6521367386793908150
+    second: BannerDiamond
+  - first:
+      213: -4000982346974253384
+    second: Button
+  - first:
+      213: 4254169611881699605
+    second: ClaimButton_1
+  - first:
+      213: 3283071777906387301
+    second: Diamond
+  - first:
+      213: -8133972444816209440
+    second: DiamondBar
+  - first:
+      213: -1146488530801002513
+    second: GameLogo_1
+  - first:
+      213: 5395291009319721053
+    second: LoadingBar
+  - first:
+      213: -6666296228622528421
+    second: LoadingFiller
+  - first:
+      213: 2661715233977824157
+    second: LoadingScreen
+  - first:
+      213: 6200903827435258917
+    second: Shine_1
+  - first:
+      213: -186149506832650953
+    second: Shine_2
+  - first:
+      213: 6283205415407109085
+    second: SuccessBanner
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BannerDiamond
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1508
+        width: 604
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e454d9e27f75a0800000000000000
+      internalID: -6521367386793908150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1232
+        width: 489
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 102, y: 0, z: 101, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beadf7e0c7a978c0800000000000000
+      internalID: -4000982346974253384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClaimButton_1
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1278
+        width: 497
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 129, y: 0, z: 125, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5195872f8b8d90b30800000000000000
+      internalID: 4254169611881699605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConfirmIcon
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1521
+        width: 203
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a10984d4c2774e0800000000000000
+      internalID: -1984068400391906700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreasaurLogo
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 974
+        width: 391
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82521d3c7748b280800000000000000
+      internalID: -9027386854138031477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurrencyBg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 354
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 143, y: 0, z: 147, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786c811c7d3f61a40800000000000000
+      internalID: 5338722516277446279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurrencyCoin
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1078
+        width: 123
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5441fcd9daf727950800000000000000
+      internalID: 6445354400374264901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurrencyMoney
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 832
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ebcc8b85e4c4140800000000000000
+      internalID: 4705221853659840003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1154
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56968363360df8d20800000000000000
+      internalID: 3283071777906387301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiamondBar
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1954
+        width: 279
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 0, z: 57, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90ae538235e1f80800000000000000
+      internalID: -8133972444816209440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FacebookIcon
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1601
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1757acc93c99f1590800000000000000
+      internalID: -7701267772352072335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseIcon
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1007
+        width: 179
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e71fa012a8cbb30800000000000000
+      internalID: 4304467218381504076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxIcon
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1069
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c374641eccae16b40800000000000000
+      internalID: 5431880791259236156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogo_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1454
+        width: 855
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7fb8e61cad610f0800000000000000
+      internalID: -1146488530801002513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericButton
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1201
+        width: 241
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 97, y: 0, z: 96, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7050219bc9421580800000000000000
+      internalID: -8857936378422341507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InstagramIcon
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1066
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232fd02af8de080a0800000000000000
+      internalID: -6881239029467188686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftArrow
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 981
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd349478e4f9bc20800000000000000
+      internalID: 3222876287585762764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1144
+        width: 104
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ae8715443301d0800000000000000
+      internalID: -3385805023499867733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingBar
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1596
+        width: 265
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d585c56669cefda40800000000000000
+      internalID: 5395291009319721053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingBarBg
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1329
+        width: 316
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 139, y: 0, z: 139, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e79523c6ab3bb0800000000000000
+      internalID: -4955183607911554960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingBarFiller
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1277
+        width: 304
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 112, y: 0, z: 128, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbcd66390e990280800000000000000
+      internalID: -9076549811583464456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingFiller
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1229
+        width: 139
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509d6d46ee8c73a0800000000000000
+      internalID: -6666296228622528421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingScreen
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 48
+        height: 1921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 65, z: 13, w: 65}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d937e7627ef40f420800000000000000
+      internalID: 2661715233977824157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LockIcon
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 943
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cb37794d77646d0800000000000000
+      internalID: -3006583946265510884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoAdsButton
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 919
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340a12a5d2a377800800000000000000
+      internalID: 610020240992084035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoAdsFlatIcon
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1418
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc374dbe34a7b9350800000000000000
+      internalID: 6024543358676136907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationIcon
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 998
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f257f8b7fd7efb900800000000000000
+      internalID: 702535013929809199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopUpBg
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1664
+        width: 275
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 75, y: 96, z: 88, w: 94}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2482ee222a1e9710800000000000000
+      internalID: 1701826443310433325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopUpContentBg
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1323
+        width: 260
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 86, y: 88, z: 93, w: 90}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828a7bc742efc8020800000000000000
+      internalID: 2345528938617874472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopUpCrossButton
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1085
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ecccdb4ebaab20800000000000000
+      internalID: 3146536522707953580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopUpTitle
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1391
+        width: 202
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 79, y: 35, z: 72, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092fb00f8bee4a590800000000000000
+      internalID: -7663738187809033584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReferenceImageBg
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1133
+        width: 347
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ae1c365d6661b0800000000000000
+      internalID: -5663719264228562555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightArrow
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 884
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed08970e80717c800800000000000000
+      internalID: 632499599562080478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsIcon
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1017
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b94b1b833dc68770800000000000000
+      internalID: 8612796958653499832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsToggleBg
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1720
+        width: 212
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 88, y: 0, z: 86, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac3a3ddcbc0cf870800000000000000
+      internalID: 8717856983987403947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsToggleButton
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1143
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc08060a77be76c0800000000000000
+      internalID: -4143672872419193656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shine_1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 708
+        width: 122
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50239235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52483a06d290e0650800000000000000
+      internalID: 6200903827435258917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shine_2
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1098
+        width: 171
+        height: 172
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.49418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2022820aaa6df0800000000000000
+      internalID: -186149506832650953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundIcon
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 928
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8779fd22eb43d2ef0800000000000000
+      internalID: -131390822890367112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarFlatIcon
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 992
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2b9d770619a250800000000000000
+      internalID: 5956316203602095337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuccessBanner
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1843
+        width: 789
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 195, y: 0, z: 200, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3c624190e623750800000000000000
+      internalID: 6283205415407109085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapToStartBg
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1046
+        width: 383
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 168, y: 0, z: 174, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f72007bc12b00b0800000000000000
+      internalID: -5761474140649128046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwitterICon
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1221
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7a4daafe5baf20800000000000000
+      internalID: 3434943571542310236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VibrationIcon
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1068
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12bfc504078c5b70800000000000000
+      internalID: 8889128215869633055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchAdIcon
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1012
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78990a25c86b7ef10800000000000000
+      internalID: 2299006848593860999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WebIcon
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1268
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9400650970801da0800000000000000
+      internalID: -5976135448251071331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoutubeIcon
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1022
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efaea2e6f2df3d70800000000000000
+      internalID: 9025164136080650209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
